@@ -1,4 +1,4 @@
-[!Kotlin]https://img.shields.io/badge/-Kotlin-yellowgreen
+![Kotlin](https://img.shields.io/badge/-Kotlin-yellowgreen)
 
 # Kotlin
 
