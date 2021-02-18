@@ -13,3 +13,5 @@ fun main (){
   println("Falaaaa mundão")
 }
 ~~~
+
+#### Exercicios e exemplos se encontram na pasta **src** do projeto. Aproveite =)
